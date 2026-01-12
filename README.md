@@ -2,6 +2,8 @@
 
 Sistema completo de gestión de personas con backend FastAPI y frontend Next.js.
 
+**Demo en producción**: [https://pmit-desafio.vercel.app/](https://pmit-desafio.vercel.app/)
+
 ## Tecnologías
 
 ### Backend
